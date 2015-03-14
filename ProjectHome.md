@@ -1,0 +1,1 @@
+An ircd based on bahamut
